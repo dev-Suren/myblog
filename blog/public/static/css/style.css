@@ -1,0 +1,11 @@
+#intro{
+      background-image: url("https://images.pexels.com/photos/3097592/pexels-photo-3097592.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+      height: 400px;
+}
+
+@media(min-width: 576px){
+      #intro{
+            height: 600px;
+            
+      }
+}
